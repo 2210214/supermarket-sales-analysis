@@ -19,7 +19,7 @@ The project demonstrates practical Power BI skills in data analysis, KPI develop
 
 ## Dashboard Preview
 
-![Supermarket Sales Analysis Dashboard](Supermarket Sales Analysis_Dashboard.png)
+![supermarket-sales-analysis-dashboard](supermarket-sales-analysis-dashboard.png)
 
 ## Key KPIs
 
