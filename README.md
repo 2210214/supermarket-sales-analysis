@@ -17,6 +17,10 @@ The analysis focuses on identifying sales patterns and performance differences a
 
 The project demonstrates practical Power BI skills in data analysis, KPI development, interactive visualization, and business insight generation.
 
+## Dashboard Preview
+
+![Supermarket Sales Analysis Dashboard](Supermarket Sales Analysis_Dashboard.png)
+
 ## Key KPIs
 
 | KPI | Value |
